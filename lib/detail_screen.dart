@@ -1,3 +1,5 @@
+// Without Server Connection
+
 import 'package:flutter/material.dart';
 import 'package:wisatabandung/model/tourism_place.dart';
 

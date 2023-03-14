@@ -1,3 +1,5 @@
+// Without Server Connection
+
 class TourismPlace {
   String name;
   String location;
