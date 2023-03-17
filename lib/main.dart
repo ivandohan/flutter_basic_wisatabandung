@@ -1,6 +1,3 @@
-// Without Server Connection
-// Greening
-
 import 'package:flutter/material.dart';
 import 'package:wisatabandung/main_screen.dart';
 
